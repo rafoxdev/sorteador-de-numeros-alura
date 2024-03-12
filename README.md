@@ -1,7 +1,7 @@
 # Sorteador de números 🤖
 
 ## Sobre
-### Projetinho que sorteria uma quantidade X de números, dentro do intervalo de / até o número escolhido pelo usuário. Desenvolvido com base no curso de lógica de programação | Praticando com desafios.
+### Projetinho que sorteia uma quantidade X de números, dentro do intervalo de / até o número escolhido pelo usuário. Desenvolvido com base no curso de lógica de programação | Praticando com desafios.
 
 ## Tecnologias utilizadas no Projeto
 
