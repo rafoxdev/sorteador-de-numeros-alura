@@ -1,0 +1,12 @@
+O DOM (Document Object Model) é uma representação da estrutura de um documento HTML...
+...onde os elementos são organizados em uma árvore hierárquica e cada nó possui propriedades e métodos. 
+Isso permite que desenvolvedores acessem, modifiquem, removam ou adicionem elementos e conteúdo HTML dinamicamente através de scripts.
+
+É por isso que, em nosso código JavaScript, frequentemente acessamos o valor de um elemento na página por meio do objeto document...
+...referenciando-o pelo identificador ou por outra propriedade. Um exemplo disso é o uso de document.getElementById().
+
+---------------------------------------- // ---------------------------------------- // ----------------------------------------
+
+A função Math.random() em JavaScript é uma função integrada que gera um número pseudoaleatório decimal entre 0 (inclusivo) e 1 (exclusivo). 
+Isso significa que o número gerado estará em um intervalo de [0, 1), onde 0 é incluído, mas 1 não é.
+
